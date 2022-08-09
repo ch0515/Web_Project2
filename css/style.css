@@ -70,3 +70,18 @@
     width: 23%;
     height: 40%;
 }
+.Explanation1{
+    font-size: 13px;
+    color: #888888;
+    font-family: 'Noto Serif KR', serif;
+}
+.Explanation2{
+    font-size: 14px;
+    color: #333333;
+    font-family: 'Noto Serif KR', serif;
+}
+.price{
+    font-size: 17px;
+    color: #3cc6aa;
+    font-family: 'Ubuntu', sans-serif;
+}
