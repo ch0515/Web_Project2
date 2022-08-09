@@ -11,11 +11,34 @@
     height: 40px;
     margin-right: 15px;
 }
-.CATEGORY{
-    margin-left: 22px;
+.login{
+    size: 22px;
+    text-decoration: none;
     color: #3cc6aa;
     font-family: 'Ubuntu', sans-serif;
+    margin-left: 5px;
+}
+.CATEGORY{
+    margin-left: 20px;
+    font-family: 'Ubuntu', sans-serif;
     margin-top: 40px;
+}
+.line{
+    margin-top: 10px;
+    float: left;
+    height: 2px;
+    width: 6%;
+    background-color: #3cc6aa;
+}
+.txt{
+    font-weight: 3px;
+ margin-left: 9px;
+ text-decoration: none;
+ color: #3cc6aa;
+ font-size: 18px;
+}
+.txt:hover{
+    color: #3cc6aa;
 }
 .im1{
     margin-left: 1%;
@@ -33,8 +56,17 @@
     margin-top: 40px;
 }
 .BESTSELLER{
-    margin-top: 40px;
-    margin-left: 22px;
+    margin-top: 550px;
+    margin-left: 18px;
     color: #3cc6aa;
     font-family: 'Ubuntu', sans-serif;
+}
+.Goods{
+    margin-left: 71px;
+}
+.Goods1{
+    margin-right: 10px;
+    float: left;
+    width: 23%;
+    height: 40%;
 }
