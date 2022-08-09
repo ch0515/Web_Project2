@@ -94,3 +94,27 @@
 .ARRIVALS{
     margin-left: 30px;
 }
+.BLOG{
+    margin-top: 1660px;
+    margin-left: 18px;
+    color: #3cc6aa;
+    font-family: 'Ubuntu', sans-serif;
+}
+.BLOG1{
+    margin-right: 35px;
+    float: left;
+    width: 30%;
+    height: 20%;
+}
+.text1{
+    float: left;
+    margin-right: 5px;
+    color: #3cc6aa;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+}
+.text2{
+    font-family: 'Noto Sans KR', sans-serif;
+    color: #333333;
+    font-size: 15px;
+}
