@@ -130,3 +130,74 @@
     font-size: 14px;
     margin-left: 80px;
 }
+.textt1, .textt2, .textt3, .textt4{
+    float: left;
+    text-decoration: none;
+    color: #888888;
+    size: 15px;
+    font-family: 'Noto Sans KR', sans-serif;
+    margin-left: 12px;
+    margin-top: 40px;
+}
+.textt1, .textt2, .textt3, .textt4:hover{
+    color: #888888;
+}
+.bottom{
+    margin-left: 50px;
+}
+.board{
+    margin-top: 200px;
+}
+.Noticetxt1,.Banktext,.CUtext{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+.Notice{
+    margin-left: 63px;
+    float: left;
+}
+.Noticetxt2{
+    font-size: 13px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #888888;
+}
+.Noticetxt2:hover{
+    color: #888888;
+}
+.BANK{
+    margin-left: 360px;
+    float: left;
+}
+.Banktext1{
+    color: #888888;
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.Banktext2, .Banktext3{
+    color: #888888;
+    font-size: 13px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.CU{
+    margin-left: 330px;
+    float:left;
+}
+.CUtext1{
+    font-size: 18px;
+    color: #3cc6aa;
+    font-family: 'Ubuntu', sans-serif;
+}
+.CUtext2, .CUtext3{
+    color: #888888;
+    font-size: 13px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.bot{
+    margin-left: 63px;
+    margin-top: 500px;
+}
+.bottxt1, .bottxt2, .bottxt3, .bottxt4, .bottxt5{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 12px;
+    color: #717171;
+}
